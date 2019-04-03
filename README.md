@@ -1,7 +1,7 @@
 # Workshop Android
 
-## Criação simples de formulários
+- Criação simples de formulários
 
-## Utilização do emulador
+- Utilização do emulador
 
-## Envio de mensagem entre telas
+- Envio de mensagem entre telas
